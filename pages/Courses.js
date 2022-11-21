@@ -1,13 +1,13 @@
 import React from "react";
 
 
-const Coursess = () =>{
+const Courses = () =>{
     return(
         <div>
-            <h2>This is Coursess  Page</h2>
+            <h2>This is Courses  Page</h2>
         </div>
     )
 }
 
 
-export default Coursess 
+export default Courses 
